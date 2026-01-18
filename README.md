@@ -131,11 +131,6 @@ While classical models remain strong baselines, deep learning approaches provide
 * Transformer or state-space models  
 * Hyperparameter tuning  
 
----
-
-## 👤 Author
-
-Time series forecasting comparison project for academic and applied machine learning use cases.
 
 ---
 
